@@ -1,0 +1,13 @@
+{
+  "name": "@trillionthoughts/react-react_native-runtimer",
+  "version": "1.0.4",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "timer",
+    "react timer",
+    "react native timer",
+    "trillion thoughts"
+  ],
+  "license": "MIT"
+}
