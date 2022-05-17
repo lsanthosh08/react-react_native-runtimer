@@ -51,12 +51,13 @@ import Timer from "@trillionthoughts/react-react_native-runtimer"
 | autoStart  | boolean                      | false      |
 | start      | ref.current.start()          | -          |
 | stop       | ref.current.stop()           | -          |
+| toggle     | ref.current.toggle()         | -          |
 | reset      | ref.current.reset()          | -          |
 
 > ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.[Github](https://github.com/lsanthosh2021/react-react_native-runtimer/issues)
 
 > ## Licence
 
-[MIT]
+[MIT](https://github.com/lsanthosh2021/react-react_native-runtimer/blob/master/LICENCE)

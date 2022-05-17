@@ -56,6 +56,9 @@ const TimerScreen = forwardRef(
       stop() {
         setRunTimer(false);
       },
+      toggle() {
+        setRunTimer(!runTimer);
+      },
       reset() {
         setRunTimer(false);
         setValue(0);

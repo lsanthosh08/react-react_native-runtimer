@@ -1,6 +1,10 @@
 {
   "name": "@trillionthoughts/react-react_native-runtimer",
-  "version": "1.0.4",
+  "author": {
+    "name": "Santhosh Lakshminarayanan",
+    "email": "santhosh@trillionthoughts.com"
+  },
+  "version": "1.0.5",
   "main": "index.js",
   "types": "index.d.ts",
   "keywords": [
@@ -9,5 +13,9 @@
     "react native timer",
     "trillion thoughts"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/lsanthosh2021/react-react_native-runtimer"
+  },
+  "homepage": "https://github.com/lsanthosh2021/react-react_native-runtimer"
 }
